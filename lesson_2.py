@@ -47,3 +47,5 @@ car_honda = Car(160, "silver", "Honda Fit")
 vehicles = [car_honda, bus, truck_man]
 for vehicle in vehicles:
     vehicle.drive_to_location("Karakol")
+
+# adolf hitler
